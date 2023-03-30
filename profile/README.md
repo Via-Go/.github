@@ -24,4 +24,4 @@ and choose the best transport for them. If everything go well, it may become rea
 
 ## Contributions
 
-Road Runner is open to contributions!
+ViaGo is open to contributions & collaborators. Don't hesitate to reach out on discord!
